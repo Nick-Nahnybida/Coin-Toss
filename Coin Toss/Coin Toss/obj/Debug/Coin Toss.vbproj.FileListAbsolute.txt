@@ -1,0 +1,14 @@
+c:\users\nn137422\documents\visual studio 2013\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+C:\Users\nn137422\Documents\Visual Studio 2013\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
